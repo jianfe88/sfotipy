@@ -85,6 +85,7 @@
   content: "\e614";
 }
 body {
+  background: red;
   font-family: 'Varela Round', sans-serif;
   font-size: 16px;
   margin: 0 auto;
